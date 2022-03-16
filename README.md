@@ -6,3 +6,4 @@
 git pull test.
 git pull test2.
 git set upper branch test.
+git set upper branch test2.
